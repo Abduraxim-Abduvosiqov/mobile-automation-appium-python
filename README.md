@@ -1,5 +1,9 @@
 # Mobile test automation: Appium + Python + pytest
 
+> **Note:** this is a learning project built with the help of [Claude](https://claude.ai) (AI).
+> I am learning mobile test automation; the code was written together with AI,
+> so I may not know every detail of it yet.
+
 UI tests for Android and iOS apps built with **Appium**, **pytest** and the **Page Object Model**.
 
 Apps under test:
